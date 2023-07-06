@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Merc/static/css/main.77f8eda2.css",
+    "main.js": "/Merc/static/js/main.e63c9bdd.js",
+    "static/js/787.69e3a71c.chunk.js": "/Merc/static/js/787.69e3a71c.chunk.js",
+    "static/media/Logo.png": "/Merc/static/media/Logo.739dccea0b5fec55e546.png",
+    "index.html": "/Merc/index.html",
+    "main.77f8eda2.css.map": "/Merc/static/css/main.77f8eda2.css.map",
+    "main.e63c9bdd.js.map": "/Merc/static/js/main.e63c9bdd.js.map",
+    "787.69e3a71c.chunk.js.map": "/Merc/static/js/787.69e3a71c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77f8eda2.css",
+    "static/js/main.e63c9bdd.js"
+  ]
+}
